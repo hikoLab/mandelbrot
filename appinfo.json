@@ -1,0 +1,17 @@
+{
+  "uuid": "46c44d1d-d523-4696-b328-9da2dda2d7cb",
+  "shortName": "Mandelbrot",
+  "longName": "Mandelbrot",
+  "companyName": "hikoLab",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+  },
+  "resources": {
+    "media": []
+  }
+}
